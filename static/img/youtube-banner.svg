@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1440" viewBox="0 0 2560 1440">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="2560" y2="1440" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="50%" stop-color="#1A5F7A"/>
+      <stop offset="100%" stop-color="#22A699"/>
+    </linearGradient>
+  </defs>
+  <rect width="2560" height="1440" fill="url(#grad)"/>
+  <text x="1280" y="660" font-family="system-ui" font-weight="900" font-size="180" fill="white" text-anchor="middle">DS Academic</text>
+  <text x="1280" y="780" font-family="system-ui" font-size="72" fill="rgba(255,255,255,0.7)" text-anchor="middle">Learn concepts. Not memorization.</text>
+  <text x="1280" y="900" font-family="system-ui" font-size="52" fill="rgba(255,255,255,0.5)" text-anchor="middle">HTML · CSS · JavaScript · Docker</text>
+</svg>

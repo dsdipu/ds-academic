@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none" role="img" aria-label="DS Logo">
+  <rect width="40" height="40" rx="9" fill="url(#g)"/>
+  <text x="20" y="27" font-family="Inter, system-ui, sans-serif" font-weight="900" font-size="16" fill="white" text-anchor="middle" letter-spacing="-0.5">DS</text>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="40" y2="40">
+      <stop offset="0%" stop-color="#1A5F7A"/>
+      <stop offset="100%" stop-color="#22A699"/>
+    </linearGradient>
+  </defs>
+</svg>

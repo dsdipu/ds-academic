@@ -205,4 +205,3 @@ MIT License — free to use, modify, and distribute. See [LICENSE](LICENSE).
 ---
 
 Built with ❤️ for CSE students. If this helped you, consider giving it a ⭐ on GitHub!
-# ds-academic
